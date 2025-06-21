@@ -1,9 +1,18 @@
-## Hi there 👋
-# Hala Alshammari
+# Welcome!
+
+## I am Hala Alshammari — thank you for stopping by 🪷
+
 I am a Computer Science student specializing in Artificial Intelligence, and this is a space where I learn out loud.
-Every project here is an intentional effort to become great, and I am determined to have an impactful presence, one repo at a time.
-I’m not here to showcase perfection, I’m here to document growth.  
+
+Every project here is an intentional effort to become great, and I’m determined to have an impactful presence — one repo at a time.
+
 You’ll find experiments, learning milestones, and projects that reflect where I am and where I’m headed.
+
+> Here’s to every line of code that brings me closer. 💻🦾👩🏻‍💻
+
+Feel free to reach out anytime:  
+📧 halalshammari11@gmail.com
+
 
 
 
