@@ -1,4 +1,12 @@
 ## Hi there 👋
+# Hala Alshammari
+I am a Computer Science student specializing in Artificial Intelligence, and this is a space where I learn out loud.
+Every project here is an intentional effort to become great, and I am determined to have an impactful presence, one repo at a time.
+I’m not here to showcase perfection, I’m here to document growth.  
+You’ll find experiments, learning milestones, and projects that reflect where I am and where I’m headed.
+
+
+
 
 <!--
 **halalshammari/halalshammari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
