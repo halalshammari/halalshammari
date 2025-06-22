@@ -1,6 +1,6 @@
 # Welcome!
 
-## I am Hala Alshammari — thank you for stopping by 🪷
+## I am **Hala Alshammari** — thank you for stopping by 🪷
 
 I am a Computer Science student specializing in Artificial Intelligence, and this is a space where I learn out loud.
 
